@@ -1,1 +1,4 @@
-/Users/eduardo/lab/java/hello-spring-mvc/src/main/java/com/whileapp/hello/spring/mvc/WebAppInitializer.java
+/Users/eduardo/lab/java/hello-spring-mvc/src/main/java/com/whileapp/hello/spring/mvc/web/controller/HomeController.java
+/Users/eduardo/lab/java/hello-spring-mvc/src/main/java/com/whileapp/hello/spring/mvc/config/WebConfig.java
+/Users/eduardo/lab/java/hello-spring-mvc/src/main/java/com/whileapp/hello/spring/mvc/config/WebAppInitializer.java
+/Users/eduardo/lab/java/hello-spring-mvc/src/main/java/com/whileapp/hello/spring/mvc/config/RootConfig.java
